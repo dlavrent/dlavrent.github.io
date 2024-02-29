@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://dlavrent.com/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://dlavrent.com/</loc>
+    </url>
+    <url>
+        <loc>https://dlavrent.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://dlavrent.com/blog/blog1/</loc>
+        <lastmod>2024-02-28</lastmod>
+    </url>
+    <url>
+        <loc>https://dlavrent.com/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://dlavrent.com/tags/</loc>
+    </url>
+    <url>
+        <loc>https://dlavrent.com/tags/website/</loc>
+    </url>
+</urlset>
