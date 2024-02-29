@@ -134,7 +134,7 @@ invert_title_order = true
 
 # Add an emoji here to use it as favicon.
 # Compatibility: https://caniuse.com/link-icon-svg
-favicon_emoji = "🍃"
+favicon_emoji = "🍊"
 
 
 # Path to the fallback image for social media cards (the image shown when sharing a link on WhatsApp, LinkedIn…).
