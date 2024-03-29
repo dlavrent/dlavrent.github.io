@@ -14,7 +14,8 @@ katex=true
 
 #### University of Chicago (August 2014 - June 2018)
 - B.S. in Statistics, B.S. in Biological Chemistry
-- Senior honors thesis advisors: Aaron Dinner, Mike Rust
+- Senior honors thesis: *Mathematical Modeling of the Cyanobacterial Circadian Clock*
+    - Advisors: Aaron Dinner, Mike Rust
 -----
 
 # Research Experience
@@ -44,7 +45,7 @@ summiting behavior in ‘zombie’ drosophila. *eLife*, 12. [DOI: 10.7554/elife.
 
 - MCB 112: Biological Data Analysis (Fall 2020 -- Harvard University)
     - prepared sections and graded weekly homeworks
-    - example handwritten section notes on [PCA/SVD](teaching_examples/section_notes_PCA_SVD.pdf)and on [Bayes' rule and inferring Gaussian/binomial parameters](teaching_examples/section_notes_bayes_normal_inference.pdf) (with accompanying Jupyter notebook, hosted on [Google Colab](https://colab.research.google.com/drive/1S-W6hlppeYuEpQbs86yS7n9XkzKkq6QD))
+    - example handwritten section notes on [PCA/SVD](teaching_examples/section_notes_PCA_SVD.pdf) and on [Bayes' rule and inferring Gaussian/binomial parameters](teaching_examples/section_notes_bayes_normal_inference.pdf) (with accompanying Jupyter notebook, hosted on [Google Colab](https://colab.research.google.com/drive/1S-W6hlppeYuEpQbs86yS7n9XkzKkq6QD))
     - awarded Certificate of Distinction in Teaching for an average student evaluation score $\geq$ 4.5/5.0
 - MCB 111: Mathematics in Biology (Fall 2021 -- Harvard University)
     - prepared sections and graded weekly homeworks
@@ -56,9 +57,9 @@ summiting behavior in ‘zombie’ drosophila. *eLife*, 12. [DOI: 10.7554/elife.
 
 - Programming languages:
     - 8+ years of experience with Python
-        - data handling / visualization: numpy, pandas, matplotlib, seaborn, 
-        - statistical inference: cmdstanpy, PyMC, emcee,
-        - machine learning: scikit-learn, 
+        - data handling / visualization: numpy, pandas, matplotlib, seaborn
+        - statistical inference: cmdstanpy, PyMC, emcee
+        - machine learning: scikit-learn
         - neuron modeling: BRIAN
     - Proficient in STAN, R, git, Bash, $\LaTeX$
 - Languages: 
