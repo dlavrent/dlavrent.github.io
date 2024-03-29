@@ -6,7 +6,7 @@ description = "Danylo's personal website"
 author = "dlavrent"
 
 
-generate_feed = true
+generate_feed = false
 compile_sass = true
 minify_html = false
 
@@ -144,8 +144,9 @@ favicon_emoji = "🍊"
 social_media_card = "img/me_bcommon.jpg"
 
 menu = [
-    { name = "about", url = "about/" },
-    { name = "blog", url = "blog/" },
+    { name = "About", url = "about/" },
+    { name = "Resume", url = "resume/" },
+    { name = "Blog", url = "blog/" },
 ]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
