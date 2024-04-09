@@ -7,6 +7,6 @@ extra.summary = "true"
 
 ![](/files/game_rotations.png)<!-- -->
 
-I like to make NBA-related data visualizations, posting occassionally on Twitter: [@d_lavrent](https://twitter.com/d_lavrent). More details coming soon!
+I like to make basketball-related data visualizations -- you can see more at my dedicated website: [plotandroll.com](https://plotandroll.com).
 
 <!-- more -->
